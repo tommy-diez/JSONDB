@@ -1,4 +1,5 @@
-  "tasks": [
+{  
+"tasks": [
     { "id": 1, "title": "Install React", "type": "task", "column": "done" },
     { "id": 2, "title": "Setup GitHub",  "type": "task", "column": "review" },
     { "id": 3, "title": "Invite Collaborators",  "type": "task", "column": "done" },
@@ -10,3 +11,4 @@
     { "id": 9, "title": "Create Add Form",  "type": "feature", "column": "todo" },
     { "id": 10, "title": "App Crashs! :(",  "type": "bug", "column": "done" }
   ]
+} 
